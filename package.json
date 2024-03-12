@@ -12,7 +12,7 @@
   "unpkg": "dist/f360-biblioteca/f360-biblioteca.esm.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ionic-team/stencil-component-starter.git"
+    "url": "git+https://github.com/ionic-team/stencil-component-starter.git"
   },
   "files": [
     "dist/",
@@ -35,5 +35,14 @@
     "jest-cli": "^29.7.0",
     "puppeteer": "^21.9.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ionic-team/stencil-component-starter/issues"
+  },
+  "homepage": "https://github.com/ionic-team/stencil-component-starter#readme",
+  "keywords": [
+    "test",
+    "lib"
+  ],
+  "author": "Guilherme Vesentini"
 }
